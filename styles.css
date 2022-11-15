@@ -1,0 +1,19 @@
+*{
+    align-items: center;
+    background-color: azure;
+   
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+    font-size:xx-large;
+    padding: 4% 10% 2%;
+    text-align: center;
+}
+ul{
+    background-color: inherit;
+    font-family: 'Poor Story', cursive;
+    font-size: x-large;
+    justify-content: center;
+    padding: 0% 40%;
+}
